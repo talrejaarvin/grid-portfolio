@@ -1,1 +1,1 @@
-#Grid Mini Project
+Grid Mini Project
